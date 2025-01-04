@@ -14,7 +14,6 @@ public class PaypalWebfluxApplication implements CommandLineRunner {
 
 	private static final Logger log = LoggerFactory.getLogger(PaypalWebfluxApplication.class);
 
-
 	public static void main(String[] args) {
 		SpringApplication.run(PaypalWebfluxApplication.class, args);
 	}
